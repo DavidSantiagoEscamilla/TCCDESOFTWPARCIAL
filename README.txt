@@ -7,6 +7,7 @@ Estructura entregada:
 - documentos/ : contiene el informe técnico en PDF
 - scripts_sql/ : script_bd.sql con schema y ejemplos CRUDL
 - codigo_fuente/ : esqueleto del proyecto Java organizado por capas (domain, application, infrastructure, adapters)
+- Video: https://youtu.be/GHRHsnsfJSU
 
 Instrucciones rápidas:
 - Importar el proyecto como proyecto Java (Maven/Gradle) y añadir driver JDBC MySQL.
