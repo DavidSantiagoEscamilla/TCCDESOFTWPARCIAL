@@ -1,0 +1,6 @@
+com\example\app\application\service\ClienteService.class
+com\example\app\domain\port\out\ClienteRepository.class
+com\example\app\adapters\in\gui\MainWindow.class
+com\example\app\infrastructure\jdbc\ClienteRepositoryJdbc.class
+com\example\app\domain\model\Cliente.class
+com\example\app\adapters\in\gui\MainWindow$1.class
